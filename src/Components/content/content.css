@@ -1,0 +1,21 @@
+.rounded{
+    height: 500px;
+}
+#time{
+    background-color: darkturquoise;
+    width: 275px;
+    padding: 0px 5px;
+    position: relative;
+    border-radius: 5px;
+}
+span{
+    left: 85%;
+    font-size: 11px;
+    float: right;
+    position: absolute;
+    bottom: 15%;
+}
+h5{
+    font-size: 16px;
+    width: 100px;
+}

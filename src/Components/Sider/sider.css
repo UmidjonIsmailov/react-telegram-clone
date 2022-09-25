@@ -1,0 +1,10 @@
+ul li:hover{
+    color: white;
+    background-color: #212121;
+    transition: linear 0.15s;
+    cursor: pointer;
+}
+.activee{
+    color: white;
+    background-color: #212121;
+}
